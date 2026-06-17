@@ -46,6 +46,7 @@ export default (() => {
         <title>{title}</title>
         <meta charSet="utf-8" />
         {coreStylesheet && <link rel="preload" href={coreStylesheet} as="style" />}
+<link rel="stylesheet" href="/static/custom.css" />
         {coreScript && coreScript.contentType === "external" && (
           <link rel="preload" href={coreScript.src} as="script" />
         )}
