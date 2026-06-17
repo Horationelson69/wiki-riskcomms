@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "7ac66f61ea93c5ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "033cc3453098bc99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3134619301d8562",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "79a0c48dad22f899",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/frameworks/Test Deploy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test Deploy"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f0c0c07b5470ac7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3f7a6eb42063021",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7746eb7472769f01",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6fab9f647741fe42",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f529302d408de39a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1d077ea91fb397c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "88062252a586e6f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ac3414e125304c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/frameworks/Test Deploy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Test Deploy"
+            }
+          },
+          {
+            "id": "8acaac4c72d4d83e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/frameworks/Test Deploy.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Test Deploy"
+            }
+          },
+          {
+            "id": "113ef6e8ab0eaa20",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9d452f477df84e79",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "08e0328a1c30ad46",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/frameworks/Test Deploy.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Test Deploy"
+            }
+          },
+          {
+            "id": "5a13efd98e4a72ee",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "79a0c48dad22f899",
+  "lastOpenFiles": [
+    "content/frameworks/Test Deploy.md",
+    "content/cases/norilsk-oil-spill-2020.md",
+    "content/themes/Crisis Communication Patterns.md",
+    "content/cases/tonga-volcanic-eruption-2022.md",
+    "content/cases/texas-power-grid-failure-2021.md",
+    "content/cases/notre-dame-fire-2019.md",
+    "content/cases/itaewon-crowd-crush-2022.md",
+    "content/cases/east-palestine-train-derailment-2023.md",
+    "content/cases/boeing-737-max-2018-2019.md",
+    "content/cases/beirut-port-explosion-2020.md",
+    "content/cases/baltimore-key-bridge-2024.md",
+    "templates/related-flattened-view.md",
+    "content/themes/crisis_communications_meta_analysis.md",
+    "publications/heat-resilience-audit.md",
+    "templates/related-flattened-view 1.md",
+    "templates/audit-tool-template.md",
+    "content/frameworks/GATE Model.md",
+    "publications",
+    "templates/white-paper-template.md",
+    "templates/framework-template.md",
+    "templates/case-study-template.md",
+    "templates/entity-template.md",
+    "templates/theme-template.md",
+    "Test Note.md"
+  ]
+}
