@@ -1,30 +1,15 @@
 ---
-title: "Beirut Port Explosion"
-type: "case-study"
-description: "Government communication collapse following the ammonium nitrate explosion; community-based initiatives fill the gap left by state failure"
-resource: ""
-date: 2020-08-04
-lastmod: 2026-06-17
-tags: ["case-study", "lebanon", "industrial-explosion", "government-failure", "community-response"]
-crisis-type: "industrial-explosion"
-severity: "critical"
-duration-days: 7
-response-time-hours: ""
-outcome: "government-resignation"
-sources:
-  - url: "https://www.ifrc.org/sites/default/files/CaseStudy_BeirutExplosion_TechBioHazardsweb.pdf"
-    type: "official"
-    date: "2020-08-04"
-  - url: "https://mpra.ub.uni-muenchen.de/119404/1/MPRA_paper_119404.pdf"
-    type: "research"
-    date: "2020-09-01"
-related:
-  - concept: "crisis-comms-patterns"
-    relationship: "demonstrated-in"
-  - concept: "norilsk-oil-spill-2020"
-    relationship: "related-case"
-  - concept: "community-based-crisis-communication"
-    relationship: "theme-demonstrated"
+publish: true
+title: Beirut Port Explosion
+description: Government communication collapse following the ammonium nitrate explosion; community-based initiatives fill the gap left by state failure
+created: 2020-08-04
+modified: 2026-06-17
+tags:
+  - case-study
+  - lebanon
+  - industrial-explosion
+  - government-failure
+  - community-response
 ---
 
 # Beirut Port Explosion
@@ -68,15 +53,15 @@ related:
 
 ### What Worked
 
-- [x] Community-based initiatives mobilised quickly via social media where the state did not
-- [x] The Red Cross provided structured emergency communication coordination independent of government channels
+- Community-based initiatives mobilised quickly via social media where the state did not
+- The Red Cross provided structured emergency communication coordination independent of government channels
 
 ### What Failed
 
-- [ ] No immediate state-led coordination of relief efforts
-- [ ] Casualty figures and relief operation updates were not timely or accurate
-- [ ] Bureaucratic inefficiencies delayed international aid delivery
-- [ ] Overall government communication was described as delayed, insufficient, and poorly coordinated
+- No immediate state-led coordination of relief efforts
+- Casualty figures and relief operation updates were not timely or accurate
+- Bureaucratic inefficiencies delayed international aid delivery
+- Overall government communication was described as delayed, insufficient, and poorly coordinated
 
 ## Key Lessons
 
@@ -103,4 +88,4 @@ related:
 
 ---
 
-*Last updated: {{date}} | Part of the [Crisis Communication Wiki](https://wiki.riskcomms.com)*
+_Last updated: {{date}} | Part of the [Crisis Communication Wiki](https://wiki.riskcomms.com)_

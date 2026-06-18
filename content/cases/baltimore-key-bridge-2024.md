@@ -1,33 +1,16 @@
 ---
-title: "Baltimore Francis Scott Key Bridge Collapse"
-type: "case-study"
-description: "Container ship power failure causes bridge collapse; governor's empathy-first response praised as a model crisis communication approach"
-resource: ""
-date: 2024-03-26
-lastmod: 2026-06-17
-tags: ["case-study", "usa", "infrastructure-collapse", "maritime", "unified-command", "empathy-led-response"]
-crisis-type: "infrastructure-collapse"
-severity: "high"
-duration-days: 60
-response-time-hours: 1
-outcome: "praised-response"
-sources:
-  - url: "https://www.transportation.gov/response-francis-scott-key-bridge-collapse-march-26-2024"
-    type: "official"
-    date: "2024-03-26"
-  - url: "https://en.wikipedia.org/wiki/Francis_Scott_Key_Bridge_collapse"
-    type: "news"
-    date: "2024-03-26"
-  - url: "https://princetonsc.com/2024/04/baltimore-bridge-collapse-highlights-broader-crisis-communications-challenges/"
-    type: "research"
-    date: "2024-04-01"
-related:
-  - concept: "crisis-comms-patterns"
-    relationship: "demonstrated-in"
-  - concept: "unified-command-structure"
-    relationship: "framework-applied"
-  - concept: "golden-hour-response"
-    relationship: "framework-applied"
+publish: true
+title: Baltimore Francis Scott Key Bridge Collapse
+description: Container ship power failure causes bridge collapse; governor's empathy-first response praised as a model crisis communication approach
+created: 2024-03-26
+modified: 2026-06-17
+tags:
+  - case-study
+  - usa
+  - infrastructure-collapse
+  - maritime
+  - unified-command
+  - empathy-led-response
 ---
 
 # Baltimore Francis Scott Key Bridge Collapse
@@ -70,14 +53,14 @@ related:
 
 ### What Worked
 
-- [x] Human toll prioritised before economic messaging
-- [x] Direct, language-appropriate communication with affected communities
-- [x] Unified Command and a Joint Information Center prevented conflicting narratives across 56 agencies
-- [x] No early speculation on technical causes before facts were established
+- Human toll prioritised before economic messaging
+- Direct, language-appropriate communication with affected communities
+- Unified Command and a Joint Information Center prevented conflicting narratives across 56 agencies
+- No early speculation on technical causes before facts were established
 
 ### What Failed
 
-- [ ] *(No significant communication failures identified in available sourcing — this case is documented primarily as a positive example)*
+- _(No significant communication failures identified in available sourcing — this case is documented primarily as a positive example)_
 
 ## Key Lessons
 
@@ -107,4 +90,4 @@ related:
 
 ---
 
-*Last updated: {{date}} | Part of the [Crisis Communication Wiki](https://wiki.riskcomms.com)*
+_Last updated: {{date}} | Part of the [Crisis Communication Wiki](https://wiki.riskcomms.com)_

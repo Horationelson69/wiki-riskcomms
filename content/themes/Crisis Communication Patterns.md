@@ -1,32 +1,17 @@
 ---
-title: "Crisis Communication Success and Failure Patterns"
-type: "theme"
-description: "Twelve recurring patterns distinguishing crisis communication successes from failures, synthesised across more than a hundred publicly documented incidents"
-resource: ""
-date: 2026-06-17
-lastmod: 2026-06-17
-tags: ["theme", "crisis-communication", "patterns", "leadership", "transparency", "preparedness", "stakeholder-engagement"]
-theme-type: "cross-cutting"
-cases-analyzed: "field synthesis across 100+ publicly documented incidents; not a formally coded academic dataset"
-sources:
-  - url: ""
-    type: "internal"
-    date: "2026-06-17"
-related:
-  - concept: "kfc-uk-supply-crisis-2018"
-    relationship: "demonstrated-in"
-  - concept: "christchurch-mosque-attack-2019"
-    relationship: "demonstrated-in"
-  - concept: "boeing-737-max-2018-2019"
-    relationship: "demonstrated-in"
-  - concept: "baltimore-key-bridge-2024"
-    relationship: "demonstrated-in"
-  - concept: "golden-hour-response"
-    relationship: "addressed-by"
-  - concept: "uacc-framework"
-    relationship: "addressed-by"
-  - concept: "social-media-amplification"
-    relationship: "related-theme"
+publish: true
+title: Crisis Communication Success and Failure Patterns
+description: Twelve recurring patterns distinguishing crisis communication successes from failures, synthesised across more than a hundred publicly documented incidents
+created: 2026-06-17
+modified: 2026-06-17
+tags:
+  - theme
+  - crisis-communication
+  - patterns
+  - leadership
+  - transparency
+  - preparedness
+  - stakeholder-engagement
 ---
 
 # Crisis Communication Success and Failure Patterns
@@ -135,4 +120,4 @@ Read together, these twelve patterns point toward a single underlying distinctio
 
 ---
 
-*This theme synthesises publicly reported cases and is not derived from a formally coded, peer-reviewed dataset. Numerical claims (death tolls, financial figures, percentages) reflect the cited sources and should be independently verified before use in client-facing material.*
+_This theme synthesises publicly reported cases and is not derived from a formally coded, peer-reviewed dataset. Numerical claims (death tolls, financial figures, percentages) reflect the cited sources and should be independently verified before use in client-facing material._

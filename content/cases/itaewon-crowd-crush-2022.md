@@ -1,33 +1,15 @@
 ---
-title: "Itaewon Seoul Halloween Crowd Crush"
-type: "case-study"
-description: "Ignored emergency warnings precede a mass-casualty crowd crush; government attempt to reframe the disaster as an accident triggers public fury"
-resource: ""
-date: 2022-10-29
-lastmod: 2026-06-17
-tags: ["case-study", "south-korea", "crowd-crush", "early-warning-failure", "reframing-backlash"]
-crisis-type: "mass-casualty-event"
-severity: "critical"
-duration-days: ""
-response-time-hours: ""
-outcome: "official-apology-and-resignations"
-sources:
-  - url: "https://en.wikipedia.org/wiki/Seoul_Halloween_crowd_crush"
-    type: "news"
-    date: "2022-10-29"
-  - url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11456318/"
-    type: "research"
-    date: "2023-01-01"
-  - url: "https://www.cambridge.org/core/journals/disaster-medicine-and-public-health-preparedness/article/deadly-yet-preventable-lessons-from-south-koreas-halloween-crowd-crush/95D4AFDC1A6B9490D4DA2F4DA0AC4D6E"
-    type: "research"
-    date: "2023-01-01"
-related:
-  - concept: "crisis-comms-patterns"
-    relationship: "demonstrated-in"
-  - concept: "uvalde-school-shooting-2022"
-    relationship: "related-case"
-  - concept: "early-warning-failure"
-    relationship: "theme-demonstrated"
+publish: true
+title: Itaewon Seoul Halloween Crowd Crush
+description: Ignored emergency warnings precede a mass-casualty crowd crush; government attempt to reframe the disaster as an accident triggers public fury
+created: 2022-10-29
+modified: 2026-06-17
+tags:
+  - case-study
+  - south-korea
+  - crowd-crush
+  - early-warning-failure
+  - reframing-backlash
 ---
 
 # Itaewon Seoul Halloween Crowd Crush
@@ -71,14 +53,14 @@ related:
 
 ### What Worked
 
-- [x] An eventual official apology was issued by the Interior Minister
+- An eventual official apology was issued by the Interior Minister
 
 ### What Failed
 
-- [ ] 79 emergency calls over more than three hours went unheeded
-- [ ] Available crowd prediction technology was not activated
-- [ ] Police resource allocation badly mismatched the actual risk (137 on duty in Itaewon versus 6,500 at a separate protest)
-- [ ] The government's attempt to relabel the event as an "accident" rather than a "disaster" was read by the public as reputation management, not honest framing, and backfired severely
+- 79 emergency calls over more than three hours went unheeded
+- Available crowd prediction technology was not activated
+- Police resource allocation badly mismatched the actual risk (137 on duty in Itaewon versus 6,500 at a separate protest)
+- The government's attempt to relabel the event as an "accident" rather than a "disaster" was read by the public as reputation management, not honest framing, and backfired severely
 
 ## Key Lessons
 
@@ -107,4 +89,4 @@ related:
 
 ---
 
-*Last updated: {{date}} | Part of the [Crisis Communication Wiki](https://wiki.riskcomms.com)*
+_Last updated: {{date}} | Part of the [Crisis Communication Wiki](https://wiki.riskcomms.com)_

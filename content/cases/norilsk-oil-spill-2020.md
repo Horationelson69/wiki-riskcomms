@@ -1,30 +1,15 @@
 ---
-title: "Norilsk Arctic Diesel Oil Spill"
-type: "case-study"
-description: "Nornickel conceals the largest Arctic oil spill in history for two days; the president learns of it via social media before the company reports it"
-resource: ""
-date: 2020-05-29
-lastmod: 2026-06-17
-tags: ["case-study", "russia", "oil-spill", "concealment", "corporate-accountability"]
-crisis-type: "industrial-environmental-disaster"
-severity: "critical"
-duration-days: 2
-response-time-hours: 48
-outcome: "court-ordered-damages"
-sources:
-  - url: "https://en.wikipedia.org/wiki/Norilsk_oil_spill"
-    type: "news"
-    date: "2020-05-29"
-  - url: "https://www.arcticwwf.org/newsroom/features/norilsk-nickel-must-be-held-to-account-for-devastating-fuel-spill/"
-    type: "research"
-    date: "2020-06-01"
-related:
-  - concept: "crisis-comms-patterns"
-    relationship: "demonstrated-in"
-  - concept: "beirut-port-explosion-2020"
-    relationship: "related-case"
-  - concept: "x-press-pearl-sinking-2021"
-    relationship: "related-case"
+publish: true
+title: Norilsk Arctic Diesel Oil Spill
+description: Nornickel conceals the largest Arctic oil spill in history for two days; the president learns of it via social media before the company reports it
+created: 2020-05-29
+modified: 2026-06-17
+tags:
+  - case-study
+  - russia
+  - oil-spill
+  - concealment
+  - corporate-accountability
 ---
 
 # Norilsk Arctic Diesel Oil Spill
@@ -40,7 +25,7 @@ related:
 | **Primary Channel**   | Corporate statements, state media |
 | **Duration**          | Unreported for 2 days; reputational consequences ongoing |
 | **Response Time**     | 48 hours before public disclosure |
-| **Outcome**           | $2 billion court-ordered damages |
+| **Outcome**           | \$2 billion court-ordered damages |
 | **Reputation Impact** | Severe — public rebuke from President Putin |
 
 ## Timeline
@@ -59,20 +44,20 @@ related:
 ### Aftermath
 
 - A whistleblower, Vasily Ryabinin, reportedly quit and went public after being told to stop investigating
-- In February 2021, a court ordered Nornickel to pay $2 billion in damages
+- In February 2021, a court ordered Nornickel to pay \$2 billion in damages
 
 ## Response Analysis
 
 ### What Worked
 
-- [ ] *(No significant communication successes identified — this case is documented as a near-total failure of transparency)*
+- _(No significant communication successes identified — this case is documented as a near-total failure of transparency)_
 
 ### What Failed
 
-- [ ] The incident went unreported for two days
-- [ ] Disclosure came via external discovery (social media, reaching the president directly) rather than proactive company communication
-- [ ] The company's initial public attribution ("permafrost") shifted blame away from maintenance failures rather than acknowledging the cause
-- [ ] A whistleblower was reportedly told to stop investigating rather than supported
+- The incident went unreported for two days
+- Disclosure came via external discovery (social media, reaching the president directly) rather than proactive company communication
+- The company's initial public attribution ("permafrost") shifted blame away from maintenance failures rather than acknowledging the cause
+- A whistleblower was reportedly told to stop investigating rather than supported
 
 ## Key Lessons
 
@@ -101,4 +86,4 @@ related:
 
 ---
 
-*Last updated: {{date}} | Part of the [Crisis Communication Wiki](https://wiki.riskcomms.com)*
+_Last updated: {{date}} | Part of the [Crisis Communication Wiki](https://wiki.riskcomms.com)_

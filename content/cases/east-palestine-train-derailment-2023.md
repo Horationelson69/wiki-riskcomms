@@ -1,31 +1,16 @@
 ---
-title: "East Palestine, Ohio Train Derailment"
-type: "case-study"
-description: "A hazardous materials derailment exposes the absence of bidirectional communication channels between citizens and incident command"
-resource: ""
-date: 2023-02-03
-lastmod: 2026-06-17
-tags: ["case-study", "usa", "train-derailment", "hazmat", "information-architecture", "bidirectional-communication"]
-crisis-type: "industrial-hazmat-incident"
-severity: "high"
-duration-days: ""
-response-time-hours: ""
-outcome: "ongoing-distrust"
-sources:
-  - url: "https://en.wikipedia.org/wiki/East_Palestine,_Ohio,_train_derailment"
-    type: "news"
-    date: "2023-02-03"
-  - url: "https://nct-cbnw.com/east-palestine-transforming-crisis-communication-into-information-architecture/"
-    type: "research"
-    date: "2023-06-01"
-  - url: "https://www.epa.gov/east-palestine-oh-train-derailment"
-    type: "official"
-    date: "2023-02-03"
-related:
-  - concept: "crisis-comms-patterns"
-    relationship: "demonstrated-in"
-  - concept: "communication-infrastructure"
-    relationship: "theme-demonstrated"
+publish: true
+title: East Palestine, Ohio Train Derailment
+description: A hazardous materials derailment exposes the absence of bidirectional communication channels between citizens and incident command
+created: 2023-02-03
+modified: 2026-06-17
+tags:
+  - case-study
+  - usa
+  - train-derailment
+  - hazmat
+  - information-architecture
+  - bidirectional-communication
 ---
 
 # East Palestine, Ohio Train Derailment
@@ -69,14 +54,14 @@ related:
 
 ### What Worked
 
-- [ ] *(No significant communication successes identified in available sourcing — this case is documented primarily as a structural failure, with subsequent analysis offering a proposed remedy rather than describing one that was implemented)*
+- _(No significant communication successes identified in available sourcing — this case is documented primarily as a structural failure, with subsequent analysis offering a proposed remedy rather than describing one that was implemented)_
 
 ### What Failed
 
-- [ ] The CEO's initial refusal to attend a public town hall, regardless of the stated reason, was read publicly as evasion
-- [ ] The incident commander lacked critical chemical shipment information needed to assess and communicate risk accurately
-- [ ] No structured channel existed for citizens to report observations (such as dead fish) and receive a verified response
-- [ ] Communication between public, government, and first responders was assessed as inefficient and trust-eroding
+- The CEO's initial refusal to attend a public town hall, regardless of the stated reason, was read publicly as evasion
+- The incident commander lacked critical chemical shipment information needed to assess and communicate risk accurately
+- No structured channel existed for citizens to report observations (such as dead fish) and receive a verified response
+- Communication between public, government, and first responders was assessed as inefficient and trust-eroding
 
 ## Key Lessons
 
@@ -106,4 +91,4 @@ related:
 
 ---
 
-*Last updated: {{date}} | Part of the [Crisis Communication Wiki](https://wiki.riskcomms.com)*
+_Last updated: {{date}} | Part of the [Crisis Communication Wiki](https://wiki.riskcomms.com)_

@@ -1,30 +1,15 @@
 ---
-title: "Tonga Volcanic Eruption and Tsunami"
-type: "case-study"
-description: "A severed undersea cable cuts off nearly all communication with Tonga, exposing the absence of redundant emergency telecommunications infrastructure"
-resource: ""
-date: 2022-01-15
-lastmod: 2026-06-17
-tags: ["case-study", "tonga", "volcanic-eruption", "telecommunications-failure", "infrastructure-redundancy"]
-crisis-type: "natural-disaster"
-severity: "critical"
-duration-days: ""
-response-time-hours: ""
-outcome: "satellite-backup-deployment"
-sources:
-  - url: "https://council.science/blog/emergency-communications-complex-cascading-events-lessons-eruption-and-tsunami-in-tonga/"
-    type: "research"
-    date: "2022-03-01"
-  - url: "https://cerf.un.org/sites/default/files/resources/22-RR-TON-51406_Tonga_CERF_Report_0.pdf"
-    type: "official"
-    date: "2022-06-01"
-related:
-  - concept: "crisis-comms-patterns"
-    relationship: "demonstrated-in"
-  - concept: "hurricane-helene-2024"
-    relationship: "related-case"
-  - concept: "japan-noto-earthquake-2024"
-    relationship: "related-case"
+publish: true
+title: Tonga Volcanic Eruption and Tsunami
+description: A severed undersea cable cuts off nearly all communication with Tonga, exposing the absence of redundant emergency telecommunications infrastructure
+created: 2022-01-15
+modified: 2026-06-17
+tags:
+  - case-study
+  - tonga
+  - volcanic-eruption
+  - telecommunications-failure
+  - infrastructure-redundancy
 ---
 
 # Tonga Volcanic Eruption and Tsunami
@@ -64,14 +49,14 @@ related:
 
 ### What Worked
 
-- [x] Rapid deployment of satellite phones, HF radio, and VSAT systems once the scale of the telecommunications loss was understood
-- [x] The Emergency Telecommunications Cluster's pre-existing capacity to deploy backup systems internationally
+- Rapid deployment of satellite phones, HF radio, and VSAT systems once the scale of the telecommunications loss was understood
+- The Emergency Telecommunications Cluster's pre-existing capacity to deploy backup systems internationally
 
 ### What Failed
 
-- [ ] No alternative communication system existed before the crisis to cover the loss of the single undersea cable
-- [ ] Outer island communication remained especially difficult throughout the response window
-- [ ] The single-cable dependency itself represented an unaddressed structural vulnerability prior to the eruption
+- No alternative communication system existed before the crisis to cover the loss of the single undersea cable
+- Outer island communication remained especially difficult throughout the response window
+- The single-cable dependency itself represented an unaddressed structural vulnerability prior to the eruption
 
 ## Key Lessons
 
@@ -98,4 +83,4 @@ related:
 
 ---
 
-*Last updated: {{date}} | Part of the [Crisis Communication Wiki](https://wiki.riskcomms.com)*
+_Last updated: {{date}} | Part of the [Crisis Communication Wiki](https://wiki.riskcomms.com)_

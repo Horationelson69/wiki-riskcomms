@@ -1,42 +1,17 @@
 ---
-title: "The GATE Model"
-type: "framework"
-description: "A governance framework for AI-assisted crisis, emergency, and risk communication"
-resource: "https://riskcomms.com/resources/gate-model-whitepaper.pdf"
-date: 2026-03-10
-lastmod: 2026-06-17
-tags: ["framework", "ai-governance", "crisis-communication", "emergency-communication", "risk-communication", "human-authority", "verification"]
-framework-type: "governance-protocol"
-maturity: "validated"
-cases-validated: "N/A — framework published March 2026; field validation ongoing"
-sources:
-  - url: "https://riskcomms.com/resources/gate-model-whitepaper.pdf"
-    type: "official"
-    date: "2026-03-10"
-  - url: "https://www.who.int/europe/news/item/23-05-2025-responsible-ai-use-can-advance-risk-communication-and-infodemic-management-in-emergencies--new-study-shows"
-    type: "research"
-    date: "2025-05-23"
-  - url: "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf"
-    type: "official"
-    date: "2024-07-26"
-  - url: "https://www.iso.org/standard/50267.html"
-    type: "official"
-    date: "2022-01-01"
-related:
-  - concept: "cnf-framework"
-    relationship: "complements"
-  - concept: "golden-hour-response"
-    relationship: "depends-on"
-  - concept: "stakeholder-mapping"
-    relationship: "feeds-into"
-  - concept: "narrative-control"
-    relationship: "informed-by"
-  - concept: "ooda-loop"
-    relationship: "conceptual-foundation"
-  - concept: "incident-command-system"
-    relationship: "conceptual-foundation"
-  - concept: "cerc-framework"
-    relationship: "conceptual-foundation"
+publish: true
+title: The GATE Model
+description: A governance framework for AI-assisted crisis, emergency, and risk communication
+created: 2026-03-10
+modified: 2026-06-17
+tags:
+  - framework
+  - ai-governance
+  - crisis-communication
+  - emergency-communication
+  - risk-communication
+  - human-authority
+  - verification
 ---
 
 # The GATE Model
@@ -45,7 +20,7 @@ related:
 
 The **GATE Model** (Gather, Analyse, Test, Execute) is a four-stage governance framework designed to integrate AI into crisis, emergency, and risk communication workflows while preserving human authority at the critical moment of publication. Developed by Philippe Borremans at RiskComms FZCO, it addresses a specific and underserved gap: not the ethics of AI, but the operational decision structure that sits between an AI-generated draft and a public release.
 
-The framework is anchored by a single governance principle: *AI accelerates preparation. Humans remain responsible for publication.*
+The framework is anchored by a single governance principle: _AI accelerates preparation. Humans remain responsible for publication._
 
 ## The 4 Stages
 
@@ -147,4 +122,4 @@ The framework is a direct response to six governance failure modes documented in
 
 ---
 
-*This framework is proprietary to RiskComms FZCO. © 2026 RiskComms FZCO. All rights reserved. | [riskcomms.com](https://riskcomms.com)*
+_This framework is proprietary to RiskComms FZCO. © 2026 RiskComms FZCO. All rights reserved. | [riskcomms.com](https://riskcomms.com)_

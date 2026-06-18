@@ -1,28 +1,15 @@
 ---
-title: "Notre Dame Cathedral Fire"
-type: "case-study"
-description: "An overly complex emergency alert system delays response by 30 critical minutes when a new employee cannot interpret a confusing warning"
-resource: ""
-date: 2019-04-15
-lastmod: 2026-06-17
-tags: ["case-study", "france", "historic-building-fire", "alert-system-failure", "complexity"]
-crisis-type: "structural-fire"
-severity: "high"
-duration-days: ""
-response-time-hours: ""
-outcome: "system-redesign-recommended"
-sources:
-  - url: "https://crisiscommunications.com/what-crisis-manager-can-learn-from-notre-dame/"
-    type: "research"
-    date: "2019-05-01"
-  - url: "https://sft.cnbop.pl/en/sft-vol-56-issue-2020-social-media-as-a-source-of-information-and-misinformation-on-the-example-of-the-notre-dame-fire"
-    type: "research"
-    date: "2020-01-01"
-related:
-  - concept: "crisis-comms-patterns"
-    relationship: "demonstrated-in"
-  - concept: "golden-hour-response"
-    relationship: "framework-applied"
+publish: true
+title: Notre Dame Cathedral Fire
+description: An overly complex emergency alert system delays response by 30 critical minutes when a new employee cannot interpret a confusing warning
+created: 2019-04-15
+modified: 2026-06-17
+tags:
+  - case-study
+  - france
+  - historic-building-fire
+  - alert-system-failure
+  - complexity
 ---
 
 # Notre Dame Cathedral Fire
@@ -62,14 +49,14 @@ related:
 
 ### What Worked
 
-- [ ] *(No significant communication successes identified in available sourcing during the critical initial window — this case is documented primarily as an alert-system failure)*
+- _(No significant communication successes identified in available sourcing during the critical initial window — this case is documented primarily as an alert-system failure)_
 
 ### What Failed
 
-- [ ] The alarm message itself contained no location information, despite the cathedral's large and complex structure
-- [ ] The fire warning system had taken dozens of experts six years to design, yet a basic "fire" warning was, in retrospective assessment, "almost indecipherable"
-- [ ] A newly hired employee had not been adequately trained or familiarised with the system before being relied upon to interpret it during a live event
-- [ ] The chain of escalation (security guard to supervisor to fire department) introduced an unnecessary delay rather than a direct path to emergency services
+- The alarm message itself contained no location information, despite the cathedral's large and complex structure
+- The fire warning system had taken dozens of experts six years to design, yet a basic "fire" warning was, in retrospective assessment, "almost indecipherable"
+- A newly hired employee had not been adequately trained or familiarised with the system before being relied upon to interpret it during a live event
+- The chain of escalation (security guard to supervisor to fire department) introduced an unnecessary delay rather than a direct path to emergency services
 
 ## Key Lessons
 
@@ -96,4 +83,4 @@ related:
 
 ---
 
-*Last updated: {{date}} | Part of the [Crisis Communication Wiki](https://wiki.riskcomms.com)*
+_Last updated: {{date}} | Part of the [Crisis Communication Wiki](https://wiki.riskcomms.com)_
