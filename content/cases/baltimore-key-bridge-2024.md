@@ -80,6 +80,10 @@ tags:
 - [[surfside-condo-collapse-2021]] — Another infrastructure collapse case where human toll and proactive transparency were central to the response
 - [[beirut-port-explosion-2020]] — Contrasting case: port-related industrial crisis where government communication was widely criticised rather than praised
 
+## Organization Profile
+
+- [[baltimore-bridge-authority]] — Responsible entity
+
 ## Sources
 
 - [U.S. DOT — Response to Francis Scott Key Bridge Collapse](https://www.transportation.gov/response-francis-scott-key-bridge-collapse-march-26-2024)
