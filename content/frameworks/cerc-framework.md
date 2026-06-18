@@ -30,7 +30,7 @@ These principles map onto a four-phase rhythm that CERC associates with how a cr
 
 ## Why This Matters for GATE
 
-The [[gate-model]] draws its core communication principle directly from CERC: speed is operationally valuable, but accuracy is non-negotiable, and a credible response has to hold both at once rather than sacrificing one for the other. GATE's Test stage — the mandatory verification step before Tier 3 or Tier 4 communication is released — operationalises CERC's "be right" principle specifically for AI-assisted drafting, where the risk is that the speed of AI output tempts a team to treat verification as optional. CERC supplies the underlying communication science; GATE supplies the operational checkpoint that keeps an AI-accelerated workflow from quietly dropping it.
+The [[GATE Model]] draws its core communication principle directly from CERC: speed is operationally valuable, but accuracy is non-negotiable, and a credible response has to hold both at once rather than sacrificing one for the other. GATE's Test stage — the mandatory verification step before Tier 3 or Tier 4 communication is released — operationalises CERC's "be right" principle specifically for AI-assisted drafting, where the risk is that the speed of AI output tempts a team to treat verification as optional. CERC supplies the underlying communication science; GATE supplies the operational checkpoint that keeps an AI-accelerated workflow from quietly dropping it.
 
 ## Common Misreadings
 
@@ -40,7 +40,7 @@ The [[gate-model]] draws its core communication principle directly from CERC: sp
 
 ## Related Frameworks
 
-- [[gate-model]] — Applies CERC's speed-and-accuracy principle specifically to AI-assisted communication workflows
+- [[GATE Model]] — Applies CERC's speed-and-accuracy principle specifically to AI-assisted communication workflows
 - [[ooda-loop]] — A complementary framework addressing decision cadence rather than message content
 - [[incident-command-system]] — A complementary structural framework within which CERC-guided communication typically operates
 

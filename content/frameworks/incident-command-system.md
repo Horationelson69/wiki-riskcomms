@@ -31,7 +31,7 @@ A defining feature of ICS is its modularity: the organisational structure expand
 
 ## Why This Matters for GATE
 
-The [[gate-model]] borrows ICS's structural principle directly: clear authority chains, defined roles, and explicit accountability. In communication terms, GATE translates this into the requirement that every Tier 3 and Tier 4 communication be attributable to a named individual with defined authority to approve its release. ICS demonstrates that this kind of structure scales — from a single-agency local incident to a sprawling, multi-jurisdictional response — precisely because the roles and the chain of command are defined and rehearsed in advance, not improvised once an incident is already underway. GATE applies the same logic to the specific problem of who is allowed to authorise AI-assisted content for publication.
+The [[GATE Model]] borrows ICS's structural principle directly: clear authority chains, defined roles, and explicit accountability. In communication terms, GATE translates this into the requirement that every Tier 3 and Tier 4 communication be attributable to a named individual with defined authority to approve its release. ICS demonstrates that this kind of structure scales — from a single-agency local incident to a sprawling, multi-jurisdictional response — precisely because the roles and the chain of command are defined and rehearsed in advance, not improvised once an incident is already underway. GATE applies the same logic to the specific problem of who is allowed to authorise AI-assisted content for publication.
 
 ## Common Misreadings
 
@@ -41,7 +41,7 @@ The [[gate-model]] borrows ICS's structural principle directly: clear authority 
 
 ## Related Frameworks
 
-- [[gate-model]] — Applies ICS's authority and accountability principle to AI-assisted communication governance
+- [[GATE Model]] — Applies ICS's authority and accountability principle to AI-assisted communication governance
 - [[ooda-loop]] — A complementary framework addressing decision cadence rather than organisational structure
 - [[cerc-framework]] — A complementary communication-specific framework that operates within an ICS-structured response
 

@@ -30,7 +30,7 @@ Boyd's central strategic claim was that an actor who can complete this cycle fas
 
 ## Why This Matters for GATE
 
-The [[gate-model]] draws directly on the OODA Loop's structure, mapping AI's role onto the Observe and Orient stages: AI-assisted monitoring and analysis can genuinely accelerate how quickly an organisation gathers and makes sense of information during a crisis. GATE's specific concern is what happens next. If that acceleration compresses or skips the Decide stage — if a fast Observe-Orient cycle flows straight into Act without a deliberate human decision point in between — human judgement gets bypassed at exactly the moment it matters most. GATE's Test stage exists to reinstate that decision gate explicitly, treating it as non-negotiable rather than assuming it survives automatically just because the earlier stages got faster.
+The [[GATE Model]]draws directly on the OODA Loop's structure, mapping AI's role onto the Observe and Orient stages: AI-assisted monitoring and analysis can genuinely accelerate how quickly an organisation gathers and makes sense of information during a crisis. GATE's specific concern is what happens next. If that acceleration compresses or skips the Decide stage — if a fast Observe-Orient cycle flows straight into Act without a deliberate human decision point in between — human judgement gets bypassed at exactly the moment it matters most. GATE's Test stage exists to reinstate that decision gate explicitly, treating it as non-negotiable rather than assuming it survives automatically just because the earlier stages got faster.
 
 ## Common Misreadings
 
@@ -40,7 +40,7 @@ The [[gate-model]] draws directly on the OODA Loop's structure, mapping AI's rol
 
 ## Related Frameworks
 
-- [[gate-model]] — Applies OODA's structure specifically to AI-assisted crisis communication workflows
+- [[GATE Model]] — Applies OODA's structure specifically to AI-assisted crisis communication workflows
 - [[incident-command-system]] — A complementary structural framework addressing authority and span of control rather than decision cadence
 - [[cerc-framework]] — A complementary communication-specific framework addressing what to say once a decision is made
 
