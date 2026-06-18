@@ -17,18 +17,19 @@ tags:
 
 ## What Is This Wiki?
 
-The **Crisis Intelligence Wiki** is a compounding knowledge base for crisis communication professionals. It contains **case studies**, **response frameworks**, and **pattern analysis** drawn from 10+ years of crisis communication research.
+The **Crisis Intelligence Wiki** is a compounding knowledge base for crisis communication professionals. It contains **case studies**, **response frameworks**, and **pattern analysis** drawn from 20+ years of crisis communication experience.
 
 The wiki is updated weekly as new incidents emerge and patterns crystallize. All content is compiled from public sources, documented incidents, and field analysis.
 
 ## Browse by Category
 
-| Category | Description |
-|----------|-------------|
-| [[cases]] | Detailed incident analyses with timeline, response evaluation, and outcome |
-| [[frameworks]] | Reusable methodologies for crisis response and preparation |
-| [[themes]] | Cross-cutting patterns across multiple incidents and sectors |
-| [[entities]] | Profiles of organizations, regulators, and key decision-makers |
+| Category                                                 | Description                                                                |
+| -------------------------------------------------------- | -------------------------------------------------------------------------- |
+| [[cases]]                                                | Detailed incident analyses with timeline, response evaluation, and outcome |
+| [[frameworks]]                                           | Reusable methodologies for crisis response and preparation                 |
+| [[themes]]                                               | Cross-cutting patterns across multiple incidents and sectors               |
+| [[entities]]                                             | Profiles of organizations, regulators, and key decision-makers             |
+| [publications](https://wiki.riskcomms.com/publications/) | Published white papers, how-to guides and more                             |
 
 ## How to Use This Wiki
 
@@ -53,7 +54,7 @@ The wiki is updated weekly with new case studies as incidents emerge, and monthl
 
 ### Can I use the frameworks in this wiki?
 
-The frameworks are provided for educational and informational purposes. For implementation support or tailored crisis, crisk or emergency communication strategies, [contact RiskComms directly](https://riskcomms.com/consulting).
+The frameworks are provided for educational and informational purposes. For implementation support or tailored crisis, risk, or emergency communication strategies, [contact RiskComms directly](https://riskcomms.com/briefing).
 
 ### What types of crises are covered?
 
@@ -73,7 +74,7 @@ While every effort is made to ensure accuracy, this wiki may contain errors, omi
 
 All case studies are compiled from publicly available sources and documented incidents. Internal analysis and debriefs are anonymized where required.
 
-For tailored crisis communication strategies, professional implementation support, or consultancy services, please [contact RiskComms directly](https://riskcomms.com/consulting).
+For tailored crisis communication strategies, professional implementation support, or consultancy services, please [contact RiskComms directly](https://riskcomms.com/briefing).
 
 ---
 
