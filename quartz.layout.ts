@@ -1,5 +1,3 @@
-cd ~/projects/wiki.riskcomms.com
-cat > quartz.layout.ts << 'ENDOFFILE'
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
@@ -110,4 +108,3 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [],
 }
-ENDOFFILE
